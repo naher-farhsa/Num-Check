@@ -1,2 +1,7 @@
-#Num-Check:
-Check any number fact whether its <b> Datefact, Mathfact, Yearfact, Triviafact<b>
+# Num-Check
+
+Check any number fact:
+- Datefact
+- Mathfact
+- Yearfact
+- Triviafact
